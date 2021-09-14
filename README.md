@@ -9,6 +9,10 @@ No editor é possível fazer a chamada para o cálculo que retorna uma combinaç
 
 Se não possuir uma combinação possível retorna vazio.
 
+
+
+
+
 Para buscar os dados pode-se fazer queries como: 
 
 "query{
@@ -37,6 +41,10 @@ Ou ainda é possível adicionar um where na query assim pode-se buscar dados ent
     }
   }
 }"
+
+
+
+
 
 Ao baixar o código também terá um sqlite com alguns dados que já foram testados. 
 
